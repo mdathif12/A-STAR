@@ -51,7 +51,7 @@
 ``````
 <hr>
 <h2>Program</h2>
-          
+```          
 from collections import defaultdict
 H_dist ={}
 def aStarAlgo(start_node, stop_node):
@@ -119,6 +119,7 @@ Graph_nodes=graph
 start=input()
 goal=input()
 aStarAlgo(start, goal)
+```
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
