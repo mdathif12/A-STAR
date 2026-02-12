@@ -49,7 +49,7 @@
     end (while loop)
 
 ``````
-<hr>
+
 ## Program:
 ```python
           
