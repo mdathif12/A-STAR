@@ -50,7 +50,7 @@
 
 ``````
 <hr>
-<h2>Program</h2>
+## Program
 ```          
 from collections import defaultdict
 H_dist ={}
